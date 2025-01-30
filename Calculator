@@ -1,5 +1,8 @@
 Console.WriteLine("Name: Khair Muhammad Hamza");
 Console.WriteLine("roll number : 24-ST-047");
+int a = 10 ;
+int b = 20 ;
+int result = a+b;
 int x = 5 ;
 int y = 12 ;
 int subResult=x-y;
@@ -12,5 +15,8 @@ int divResult = h/m ;
 
 
  
+
+
+
 
 
