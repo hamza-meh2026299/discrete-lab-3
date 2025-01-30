@@ -1,2 +1,5 @@
 Console.WriteLine("Name: Khair Muhammad Hamza");
 Console.WriteLine("roll number : 24-ST-047");
+int x = 5 ;
+int y = 12 ;
+int subResult=x-y;
